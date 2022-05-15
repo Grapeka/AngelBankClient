@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AngelBankClient/static/css/main.5931e3bd.chunk.css",
+    "main.js": "/AngelBankClient/static/js/main.305266e5.chunk.js",
+    "main.js.map": "/AngelBankClient/static/js/main.305266e5.chunk.js.map",
+    "runtime-main.js": "/AngelBankClient/static/js/runtime-main.0f1e229f.js",
+    "runtime-main.js.map": "/AngelBankClient/static/js/runtime-main.0f1e229f.js.map",
+    "static/css/2.7a65baac.chunk.css": "/AngelBankClient/static/css/2.7a65baac.chunk.css",
+    "static/js/2.350212f5.chunk.js": "/AngelBankClient/static/js/2.350212f5.chunk.js",
+    "static/js/2.350212f5.chunk.js.map": "/AngelBankClient/static/js/2.350212f5.chunk.js.map",
+    "index.html": "/AngelBankClient/index.html",
+    "static/css/2.7a65baac.chunk.css.map": "/AngelBankClient/static/css/2.7a65baac.chunk.css.map",
+    "static/css/main.5931e3bd.chunk.css.map": "/AngelBankClient/static/css/main.5931e3bd.chunk.css.map",
+    "static/js/2.350212f5.chunk.js.LICENSE.txt": "/AngelBankClient/static/js/2.350212f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1e229f.js",
+    "static/css/2.7a65baac.chunk.css",
+    "static/js/2.350212f5.chunk.js",
+    "static/css/main.5931e3bd.chunk.css",
+    "static/js/main.305266e5.chunk.js"
+  ]
+}
